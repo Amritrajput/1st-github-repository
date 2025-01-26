@@ -1,1 +1,5 @@
 this is pink mode for website
+<<<<<<< HEAD
+=======
+another fix msg for pink mode
+>>>>>>> master
